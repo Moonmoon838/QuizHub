@@ -31,7 +31,7 @@ public class QuizParticipate {
                 String option_2 = questionObj.get("option 2").toString();
                 String option_3 = questionObj.get("option 3").toString();
                 String option_4 = questionObj.get("option 4").toString();
-                String answerKey = questionObj.get("answer key").toString();
+                String answerKey = questionObj.get("answerkey").toString();
 
                 System.out.println("[Question " + (i + 1) + " ] " + question);
                 System.out.println("1. " + option_1);

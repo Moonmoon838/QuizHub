@@ -22,7 +22,7 @@ public class CreateUserList {
         adminObject.put("password", "1234");
         adminObject.put("role", "admin");
 
-        studentObject.put("username", "salman");
+        studentObject.put("username", "moon");
         studentObject.put("password", "1234");
         studentObject.put("role", "student");
 

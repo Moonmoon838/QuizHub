@@ -44,7 +44,7 @@ public class QuizMain {
                 }
             }
         } catch (Exception e) {
-            System.out.println("Invalid Input...");
+            System.out.println("Invalid Input");
         }
     }
 }

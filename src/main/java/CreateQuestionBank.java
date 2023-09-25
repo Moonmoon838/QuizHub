@@ -31,7 +31,7 @@ public class CreateQuestionBank {
             System.out.println("Input option 4: ");
             questionObject.put("option 4", input.nextLine());
             System.out.println("What is the answer key?");
-            questionObject.put("answer key", input.nextInt());
+            questionObject.put("answerkey", input.nextInt());
 
 
             questions_Array.add(questionObject);

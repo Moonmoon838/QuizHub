@@ -1,170 +1,170 @@
 [
   {
+    "answerkey": 2,
     "option 3": "Programmers",
     "option 4": "None of the mentioned",
     "question": "Which requirements are the foundation from which quality is measured?",
-    "answer key": 2,
     "option 1": "Hardware",
     "option 2": "Software"
   },
   {
+    "answerkey": 1,
     "option 3": "SQI",
     "option 4": "SQA and SQM",
     "question": "Quality Management in Software Engineering also known as - ",
-    "answer key": 1,
     "option 1": "SQA",
     "option 2": "SQM"
   },
   {
+    "answerkey": 4,
     "option 3": "test equipment",
     "option 4": "equipment calibration and maintenance",
     "question": "What is not included in prevention costs?",
-    "answer key": 4,
     "option 1": "quality planning",
     "option 2": "formal technical reviews"
   },
   {
+    "answerkey": 2,
     "option 3": "audits and reviews to be performed",
     "option 4": "documents to be produced by the SQA group",
     "question": "Which of the following is not a SQA plan for a project?",
-    "answer key": 2,
     "option 1": "evaluations to be performed",
     "option 2": "amount of technical work"
   },
   {
+    "answerkey": 2,
     "option 3": "Quality Assurance",
     "option 4": "None of the mentioned",
     "question": "Degree to which design specifications are followed in manufacturing the product is called",
-    "answer key": 2,
     "option 1": "Quality Control",
     "option 2": "Quality of conformance"
   },
   {
-    "option 3": "Decision table testing",
-    "option 4": "Adhoc Testing",
-    "question": "Which is whitebox testing technique?",
-    "answer key": 3,
-    "option 1": "Equivalent Partitioning",
-    "option 2": "Boundary value testing"
-  },
-  {
+    "answerkey": 3,
     "option 3": "Branch Testing",
     "option 4": "State Transition",
     "question": "What is not the blackbox testing strategy?",
-    "answer key": 3,
     "option 1": "Equivalence Partitioning",
     "option 2": "Boundary Value Testing"
   },
   {
+    "answerkey": 3,
     "option 3": "planning",
     "option 4": "Check Exit criteria completion",
     "question": "Faults are found most cost-effectively in which test activity?",
-    "answer key": 3,
     "option 1": "design",
     "option 2": "execution"
   },
   {
+    "answerkey": 4,
     "option 3": "Concatenated Loops",
     "option 4": "All of the above",
     "question": "Loop Testing methodology includes which of the following.",
-    "answer key": 4,
     "option 1": "Simple Loops",
     "option 2": "Nested Loops"
   },
   {
+    "answerkey": 4,
     "option 3": "When the time completed",
     "option 4": "when all the risk are resolved",
     "question": "When would the testing have been stopped?",
-    "answer key": 4,
     "option 1": "When all the tests  run",
     "option 2": "When the  faults have been fixed"
   },
   {
+    "answerkey": 2,
     "option 3": "Performance testing",
     "option 4": "Usability testing",
     "question": "Which of the following is a form of functional testing?",
-    "answer key": 2,
     "option 1": "Security level testing",
     "option 2": "Boundary value analysis"
   },
   {
+    "answerkey": 1,
     "option 3": "Exit Criteria",
     "option 4": "Different Tools to perform Regression Testing",
     "question": "Impact Analysis help to decide which of the following testing describe below.",
-    "answer key": 1,
     "option 1": "How much regression testing should be done",
     "option 2": "How many more test cases need to written"
   },
   {
+    "answerkey": 4,
     "option 3": "Non-functional system testing",
     "option 4": "Maintenance testing",
     "question": "Select Impact Analysis is used in which of the following?",
-    "answer key": 4,
     "option 1": "User acceptance testing",
     "option 2": "Component testing"
   },
   {
+    "answerkey": 2,
     "option 3": "White Box & Black Box Testing",
     "option 4": "None",
     "question": "In which testing Boundary value analysis belong to?",
-    "answer key": 2,
     "option 1": "White Box Testing",
     "option 2": "Black Box Testing"
   },
   {
+    "answerkey": 2,
     "option 3": "Design based testing",
     "option 4": "None of above",
     "question": "White Box techniques are also classified as...",
-    "answer key": 2,
     "option 1": "Error guessing technique",
     "option 2": "Structural testing"
   },
   {
+    "answerkey": 4,
     "option 3": "Stress",
     "option 4": "Regression",
     "question": "__________ testing is used to demonstrate that the new release of software still performs the old one.",
-    "answer key": 4,
     "option 1": "Functional",
     "option 2": "Path"
   },
   {
+    "answerkey": 1,
     "option 3": "System",
     "option 4": "Unit",
     "question": "_________testing is the form of Alpha and Beta Testing?",
-    "answer key": 1,
     "option 1": "Acceptance",
     "option 2": "Integration"
   },
   {
+    "answerkey": 1,
     "option 3": "Development phase",
     "option 4": "Testing phase",
     "question": "Majority of system errors occur in the ------ phase.",
-    "answer key": 1,
     "option 1": "Requirement phase",
     "option 2": "Analysis and design phase"
   },
   {
+    "answerkey": 1,
     "option 3": "Both",
     "option 4": "None",
     "question": "What are the good practices for testing within the development life cycle?",
-    "answer key": 1,
     "option 1": "Early test analysis and design",
     "option 2": "Testers will start testing after deployment is done"
   },
   {
+    "answerkey": 4,
     "option 3": "end user",
     "option 4": "all",
     "question": "who perform testing?",
-    "answer key": 4,
     "option 1": "developer",
     "option 2": "tester"
   },
   {
+    "answerkey": 4,
     "option 3": "Load Testing",
     "option 4": "Unit Testing",
-    "question": "Which is not part of System Testing?",
-    "answer key": 4,
+    "question": "Which is not part of system testing?",
     "option 1": "Regression Testing",
     "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
   }
 ]

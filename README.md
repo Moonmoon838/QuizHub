@@ -1,6 +1,6 @@
-# QuizApp
+# QuizHub
 
-### QuizApp is a simple software system for managing multiple-choice questions (MCQ) and conducting quizzes. It allows the admin to add and save questions to a question bank and enables students to participate in quizzes from the available question bank.
+### QuizHub is a simple software system for managing multiple-choice questions (MCQ) and conducting quizzes. It allows the admin to add and save questions to a question bank and enables students to participate in quizzes from the available question bank.
 
 ## Features
 #### Admin Panel
@@ -22,3 +22,6 @@
 - Clone this repository
 - Open build.gradle file as a project with IntelliJ IDEA
 - Run QuizMain.java
+
+## QuizHub Showcase Video:
+https://github.com/Moonmoon838/Quiz_Project_With_JSON/assets/143262452/95f59a84-231d-4987-a83f-4d5973383ace
